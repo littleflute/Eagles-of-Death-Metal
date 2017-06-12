@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "01 Complexity.mp3";		
+f[2]	= "02 Silverlake (K.S.O.F.M.).mp3";		
+f[3]	= "03 Got A Woman.mp3";		
+f[4]	= "04 I Love You All The Time.mp3";		
+f[5]	= "05 Oh Girl.mp3";		
+f[6]	= "06 Got The Power.mp3";		
+f[7]	= "07 Skin-Tight Boogie.mp3";		
+f[8]	= "08 Got A Woman (Slight Return).mp3";		
+f[9]	= "09 The Deuce.mp3";		
+f[10]	= "10 Save A Prayer.mp3";		
+f[11]	= "11 The Reverend.mp3";		
